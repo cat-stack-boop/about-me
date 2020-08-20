@@ -1,0 +1,29 @@
+nav { background-color: darkgrey;}
+
+nav a { color: darkmagenta; }
+
+img { border-radius:50%;
+      width: 50%;
+      height: 50%;
+      
+    }
+
+.main-wrapper { 
+    display: flex;
+    justify-content: center;
+    border: solid red 1px;
+}
+
+.img-wrapper { 
+    width: auto;
+    height: auto;
+    justify-content: left;
+}
+
+
+
+    footer { clear: both;
+            float: right;} 
+
+    #heart { color:  #f30404;
+            }
